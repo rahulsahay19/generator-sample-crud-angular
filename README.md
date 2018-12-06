@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 First you need to install yeoman generator globally. Later on, you can type below command
 
-### npm i -g generator-sample-crud
+### npm i -g generator-sample-crud-angular
 
 This will install the generator globally, then you can implement the same using below command.
 

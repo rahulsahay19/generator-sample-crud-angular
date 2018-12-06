@@ -1,6 +1,6 @@
 {
     "name": "generator-sample-crud-angular",
-    "version": "1.0.4",
+    "version": "1.0.6",
     "description": "Yeoman generator for Angular Sample CRUD Application",
     "author": "Rahul Sahay",
     "files": [
