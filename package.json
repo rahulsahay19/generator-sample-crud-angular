@@ -1,6 +1,6 @@
 {
     "name": "generator-sample-crud-angular",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "description": "Yeoman generator for Angular Sample CRUD Application",
     "author": "Rahul Sahay",
     "files": [
@@ -10,7 +10,7 @@
         "yeoman-generator",
         "angular-cli",
         "angular",
-        "angular 8",
+        "angular 9",
         "angular sample",
         "angular demo",
         "angular crud",
@@ -32,10 +32,10 @@
     "repository": {
         "type": "git",
         "url": "git+https://github.com/rahulsahay19/sample-angular-crud-app.git"
-      },
-      "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/rahulsahay19/sample-angular-crud-app/issues"
-  },
-  "homepage": "https://github.com/rahulsahay19/generator-sample-crud-angular#readme"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/rahulsahay19/sample-angular-crud-app/issues"
+    },
+    "homepage": "https://github.com/rahulsahay19/generator-sample-crud-angular#readme"
 }

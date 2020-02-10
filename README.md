@@ -1,6 +1,6 @@
 # SampleCrud
 
-This project is updated [Angular CLI](https://github.com/angular/angular-cli) to version 8. This app is simple angular CRUD app which is meant for getting started project. This project can be extended to accomodate any enterprise based features.
+This project is updated [Angular CLI](https://github.com/angular/angular-cli) to version 9. This means its baked with ivy compiler as default rendering engine. This app is simple angular CRUD app which is meant for getting started project. This project can be extended to accomodate any enterprise based features. 
 
 ## Follow below steps
 
